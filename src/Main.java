@@ -28,7 +28,6 @@ public class Main {
 			//if match found
 			if(arr[currentPos/3][currentPos%4] == key)
 			{
-				
 				//set index values
 				index[0] = currentPos/3;
 				index[1] = currentPos%4;
